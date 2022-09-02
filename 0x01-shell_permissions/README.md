@@ -1,1 +1,1 @@
-(8) a script that adds execution permission to the owner, the group owner and the other users, to the file hello
+(9) owner no access, group no access, while others access
