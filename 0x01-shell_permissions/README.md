@@ -1,1 +1,1 @@
-(3) this script that prints all the groups the current user is part of group
+(4) this  script that changes the owner of the file hello to the user betty
