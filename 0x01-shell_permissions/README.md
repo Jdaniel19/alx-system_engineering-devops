@@ -1,1 +1,1 @@
-(9) owner no access, group no access, while others access
+(01)  a script that sets the mode of the file hello
