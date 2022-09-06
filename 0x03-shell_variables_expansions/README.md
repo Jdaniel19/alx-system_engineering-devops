@@ -1,1 +1,1 @@
-(7) this is a script that creates a new local variable
+(8) this is  a script that creates a new global variable
