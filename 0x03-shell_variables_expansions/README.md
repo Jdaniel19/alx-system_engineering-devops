@@ -1,1 +1,1 @@
-(5) this is  a script that lists environment variables
+(6) this is  a script that lists all local variables and environment variables, and functions
