@@ -1,1 +1,1 @@
-(4) this is  a script that counts the number of directories in the PATH
+(5) this is  a script that lists environment variables
